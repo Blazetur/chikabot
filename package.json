@@ -1,6 +1,6 @@
 {
-  "name": "wa-chika-md",
-  "version": "1.0.0",
+  "name": "KannaBot-MD",
+  "version": "2.1.0",
   "description": "Simple whatsapp bot with multi device.",
   "main": "main.js",
   "directories": {
